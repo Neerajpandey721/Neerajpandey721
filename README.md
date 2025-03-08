@@ -67,8 +67,8 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ### 📊 My Github Stats
-<img align="left" height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rachana-sahu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="Rachana Sahu" />
-<img height="170em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rachana-sahu&layout=compact&theme=tokyonight&hide_border=true"alt="Rachana Sahu" /> 
+<img align="left" height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Neerajpandey721&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="Neerajpandey721" />
+<img height="170em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Neerajpandey721&layout=compact&theme=tokyonight&hide_border=true"alt="Neerajpandey721" /> 
 
 
 
